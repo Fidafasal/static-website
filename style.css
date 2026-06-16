@@ -66,10 +66,19 @@
     background: #2f7d96;
     color: white;
     border: none;
-    border-radius: 3px;
+    border-radius: 8px;
     padding: 18px 35px;
     font-size: 25px;
     /* border: 1px solid; */
+}
+.trynow:hover{
+  background: white;
+    color: #2f7d96 ;
+    border: none;
+    border-radius: 8px;
+    padding: 18px 35px;
+    font-size: 25px;
+     border: 1px solid #2f7d96;
 }
 
 h1 {
@@ -145,21 +154,38 @@ h1 {
     background: white;
     border: 1px solid #2f7d96;
     color: #2f7d96;
-    border-radius: 5px;
+    border-radius: 8px;
     padding: 10px;
     width: 100%;
     /* border: 1px solid; */
 }
 
-.getplan1 {
+/* .getplan1 {
     background: #2f7d96;
     color: white;
     border: none;
-    border-radius: 5px;
-    padding: 20px;
+    border-radius: 8px;
+    padding: 10px;
     width: 100%;
-    /* border: 1px solid; */
+    border: 1px solid; 
+} */
+
+.getplan:hover{
+    background: #2f7d96;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100%;
 }
+ /* .getplan1:hover{
+     background: white;
+    border: 1px solid #2f7d96;
+    color: #2f7d96;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100%; 
+} */
 
 .container5 {
     display: flex;
