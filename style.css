@@ -1,0 +1,216 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 30px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    /* border: 1px solid; */
+}
+
+.logo-title {
+    font-size: 40px;
+    /* border: 1px solid; */
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    /* border: 1px solid; */
+}
+
+.login {
+    background: white;
+    border: 1px solid #2f7d96;
+    color: #2f7d96;
+    border-radius: 8px;
+    padding: 10px 26px;
+    font-size: 20px;
+    /* border: 1px solid; */
+}
+
+.signup {
+    background: #2f7d96;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 26px;
+    font-size: 20px;
+    /* border: 1px solid; */
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px 30px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+
+
+
+.trynow {
+    background: #2f7d96;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 18px 35px;
+    font-size: 25px;
+    /* border: 1px solid; */
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    color: #2f7d96;
+    /* border: 1px solid; */
+    font-size: 50px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 20px 30px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+
+
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px 30px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+
+
+.container4 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px 30px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+.card {
+    background-color: rgb(246, 247, 249);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
+    gap: 30px;
+    /* border: 1px solid; */
+}
+
+.card-text {
+    font-size: 25px;
+    /* border: 1px solid; */
+}
+
+.getplan {
+    background: white;
+    border: 1px solid #2f7d96;
+    color: #2f7d96;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    /* border: 1px solid; */
+}
+
+.getplan1 {
+    background: #2f7d96;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    width: 100%;
+    /* border: 1px solid; */
+}
+
+.container5 {
+    display: flex;
+    justify-content: start;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px 30px;
+    margin: 20px;
+    /* border: 1px solid; */
+}
+
+footer {
+    background-color: rgb(43, 43, 43);
+}
+
+.ftr {
+    background-color: rgb(43, 43, 43);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 25px;
+    /* border: 1px solid; */
+
+}
+
+.list1 {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    /* border: 1px solid; */
+}
+
+.list2 {
+    color: white;
+    list-style-type: none;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    /* border: 1px solid; */
+
+}
+
+.ftr1 {
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+    border-top: 0.01rem solid white;
+    width: 75%;
+    font-size: 25px;
+    /* border: 1px solid; */
+}
